@@ -6,6 +6,7 @@ const theme = extendTheme({
     secondary: "#6E7DAB",
     ternary: "#575366",
     accent: "#32292F",
+    grey: "#7D7987",
   },
   fonts: {
     heading: "Mulish",
