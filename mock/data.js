@@ -35,3 +35,24 @@ export const serviceData = [
     icon: "service6",
   },
 ];
+
+export const articleData = [
+  {
+    headline: "Disease detection, check up in the laboratory",
+    description:
+      "In this case, the role of the health laboratory is very important to do a disease detection...",
+    thumbnail: "/article/article1.png",
+  },
+  {
+    headline: "Disease detection, check up in the laboratory",
+    description:
+      "In this case, the role of the health laboratory is very important to do a disease detection...",
+    thumbnail: "/article/article2.png",
+  },
+  {
+    headline: "Disease detection, check up in the laboratory",
+    description:
+      "In this case, the role of the health laboratory is very important to do a disease detection...",
+    thumbnail: "/article/article3.png",
+  },
+];
