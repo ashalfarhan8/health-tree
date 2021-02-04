@@ -15,7 +15,12 @@ const Card = ({ heading, description, thumbnail }) => {
       boxShadow="sm"
       pb={14}
     >
-      <Image src={thumbnail} width={350} height={240} />
+      <Image
+        src={thumbnail}
+        width={350}
+        height={240}
+        className="articlesThumbnail"
+      />
       <Box px={6}>
         <Text mt={6} fontSize="xl" fontWeight="bold" lineHeight="32px">
           {heading}

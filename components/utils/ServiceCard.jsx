@@ -39,7 +39,7 @@ const Card = ({ heading, description, icon }) => {
       borderRadius={25}
       boxShadow="sm"
     >
-      <Box h="95px">
+      <Box h="100px">
         {!loading && importedIconRef.current ? <ImportedIcon /> : null}
       </Box>
       <Text mt={6} fontSize="2xl" fontWeight="bold" lineHeight="56px">
