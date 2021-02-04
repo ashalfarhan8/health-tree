@@ -18,7 +18,7 @@ const Hero = () => {
             <Heading fontSize={50} textTransform="capitalize">
               Virtual heath assistant with real-time monitoring
             </Heading>
-            <Text textTransform="capitalize" fontSize={20} my={8}>
+            <Text textTransform="capitalize" fontSize={20} my={8} color="grey">
               Health-Tree provides progressive, and affordable healthcare,
               accessible on mobile and online for everyone
             </Text>
