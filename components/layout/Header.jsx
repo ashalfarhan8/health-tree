@@ -16,7 +16,7 @@ const Header = () => {
               textTransform="uppercase"
               ml="4"
               fontSize="2xl"
-              fontWeight="medium"
+              fontWeight="semibold"
             >
               Health-tree
             </Text>
@@ -31,7 +31,7 @@ const Header = () => {
             <Text
               px="4"
               _hover={{
-                fontWeight: 600,
+                color: "accent",
                 textDecoration: "underline",
               }}
             >
@@ -40,7 +40,7 @@ const Header = () => {
             <Text
               px="4"
               _hover={{
-                fontWeight: 600,
+                color: "accent",
                 textDecoration: "underline",
               }}
             >
@@ -49,7 +49,7 @@ const Header = () => {
             <Text
               px="4"
               _hover={{
-                fontWeight: 600,
+                color: "accent",
                 textDecoration: "underline",
               }}
             >
@@ -58,7 +58,7 @@ const Header = () => {
             <Text
               px="4"
               _hover={{
-                fontWeight: 600,
+                color: "accent",
                 textDecoration: "underline",
               }}
             >
@@ -67,7 +67,7 @@ const Header = () => {
             <Text
               px="4"
               _hover={{
-                fontWeight: 600,
+                color: "accent",
                 textDecoration: "underline",
               }}
             >
