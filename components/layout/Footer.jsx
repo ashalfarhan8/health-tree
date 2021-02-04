@@ -24,7 +24,7 @@ const Footer = () => {
                   textTransform="uppercase"
                   ml="4"
                   fontSize="2xl"
-                  fontWeight="medium"
+                  fontWeight="semibold"
                 >
                   Health-tree
                 </Text>
@@ -33,7 +33,7 @@ const Footer = () => {
                 Health-Tree provides progressive, and affordable healthcare,
                 accessible on mobile and online for everyone
               </Text>
-              <Text mt="2">©Trafalgar PTY LTD 2020. All rights reserved</Text>
+              <Text mt="2">©HEALTH THREE. All rights reserved</Text>
             </Box>
             <Box mr="8">
               <Text fontSize="xl" fontWeight="bold">
