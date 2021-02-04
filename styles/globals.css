@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.articlesThumbnail {
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
+
+.articlesBg {
+  overflow: hidden;
+}
